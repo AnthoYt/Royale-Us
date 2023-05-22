@@ -1,2 +1,2 @@
 # Among-Us
-Mod Among Us
+Mod Royale
