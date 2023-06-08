@@ -1,8 +1,6 @@
 # Mod
 Mod Royale
-Voici un nouveau Mod pour ne plus beuguer sur Among Us avec les pings grâce aux dossier.zip et...
-Attention : Tout le monde doit avoir le mode pour que le nouveau Serveur soit Disponnible !
-( J'ai ajouté un petit mod pack sur la mape Polus pour rendre plus fun.
+Voici une nouvelle mape créé par moi ( Royale Polus ) dison que j'ai pas très fait le mod packs donc on est obbligé d'avoir le mod Level Imposteur avec...
 
 Si vous avez la moindre question ( Serveur Discord ) https://discord.gg/BP3wFcjku4
 
