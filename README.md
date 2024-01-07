@@ -20,3 +20,9 @@ Extrayez les fichiers téléchargés à cet endroit. Assurez-vous que le dossier
 Lancez le jeu (veuillez noter que le premier lancement peut prendre un certain temps).
 Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà installé BepInEx, vous pouvez télécharger le fichier DLL directement et le placer dans .BepInEx/plugins
 
+
+
+Bonjour, veiller m'escuser pour ce manque d'inactivité sur ce projet, sur mon Serveur Discord nous avons fait encore 0 évent dessus donc normale que j'y touche plus mais pendant les vacances de Février je le mettrais à jour à 100% avec beaucoup de bugs corriger et de nouveauxté en plus !
+
+De part, Bonne Année 2024 ! Je vous attend sur ma Chaine Youtube : https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
+
