@@ -27,6 +27,7 @@ Bonjour, veiller m'escuser pour ce manque d'inactivité sur ce projet, sur mon S
 
 De part, Bonne Année 2024 ! Je vous attend sur ma Chaine Youtube : https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
 
-Contact
-Discorde : antho_off
+# Contact
+Discord :
+antho_off
 
