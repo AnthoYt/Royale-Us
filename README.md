@@ -6,7 +6,7 @@ Si vous avez la moindre question ( Serveur Discord ) https://discord.gg/BP3wFcjk
 
 
 Normalement vous devez avoir ça comme écran d'affichage : 
-!![Among Us 11_06_2024 20_11_41] (https://github.com/AnthoYt/Royale-Us/assets/113532396/2f8de72f-35b5-4f1d-a5cd-81c68b09b282)
+(https://github.com/AnthoYt/Royale-Us/assets/113532396/2f8de72f-35b5-4f1d-a5cd-81c68b09b282)
 b.com/AnthoYt/Royale-Us/assets/113532396/74799664-e39b-4980-90a8-4232da668458)
 
 Ce mod n’est pas compatible avec les versions mobiles ou consoles de Among Us.
