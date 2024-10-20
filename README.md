@@ -2,7 +2,7 @@
 Mod Royale
 Voici une nouvelle mape créé par moi ( Royale Polus ) dison que j'ai pas très fait le mod packs donc on est obbligé d'avoir le mod Level Imposteur avec...
 
-Si vous avez la moindre question ( Serveur Discord ) https://discord.gg/BP3wFcjku4
+Si vous avez la moindre question Serveur Discord | [https://discord.gg/BP3wFcjku4]
 
 
 Normalement vous devez avoir ça comme écran d'affichage : 
@@ -24,7 +24,7 @@ Lancez le jeu (veuillez noter que le premier lancement peut prendre un certain t
 Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà installé BepInEx, vous pouvez télécharger le fichier DLL directement et le placer dans .BepInEx/plugins
 
 
-# Annonce 2024 !
+# Annonce 2025 !
 Bonjour, veiller m'excuser pour ce manque d'inactivité sur ce projet, sur mon Serveur Discord nous avons fait encore 0 évent dessus donc normale que j'y touche plus mais pendant les vacances de Février je le mettrais à jour à 100% avec beaucoup de bugs corriger et de nouveauté en plus !
 
 De part, Bonne Année 2024 ! Je vous attend sur ma Chaine Youtube : https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
