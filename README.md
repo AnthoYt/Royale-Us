@@ -22,6 +22,7 @@ Accédez à votre répertoire d’installation Among Us.
 Extrayez les fichiers téléchargés à cet endroit. Assurez-vous que le dossier se trouve dans le même dossier que le fichier (voir la capture d’écran ci-dessous).BepInExAmong Us.exe
 Lancez le jeu (veuillez noter que le premier lancement peut prendre un certain temps).
 Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà installé BepInEx, vous pouvez télécharger le fichier DLL directement et le placer dans .BepInEx/plugins
+
 ![hq720 (1)](https://github.com/user-attachments/assets/464e0f80-ca8e-4b75-a605-43a7a8d5a50d)
 
 
