@@ -40,6 +40,5 @@ https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
 Discord :
 antho_off
 
-![logo youtube](https://github.com/user-attachments/assets/983152c1-93c9-49c3-aaf6-887e55c856db)
 Youtube : 
 https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
