@@ -31,6 +31,6 @@ De part, Bonne Année 2024 ! Je vous attend sur ma Chaine Youtube : https://www.
 
 # Contact
 Discord :
-antho_off
+antho_off &
 Twitch : 
 [https://www.twitch.tv/twitch_antho_off]
