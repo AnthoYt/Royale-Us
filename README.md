@@ -14,7 +14,7 @@ Ce mod n’est pas compatible avec les versions mobiles ou consoles de Among Us.
 
 Ce mod n’est garanti que sur les systèmes d’exploitation Windows. Nous n’avons pas l’intention d’assurer la compatibilité avec les systèmes d’exploitation basés sur Linux ou Mac.
 
-Ce mod a été testé et fonctionne avec les versions Steam, Epic et itch.io de Among Us.
+Ce mod a été testé et fonctionne avec les versions Steam, Epic Games et Microsoft de Among Us.
 
 # TUTO
 Téléchargez la version ZIP appropriée en fonction de votre version de Among Us.
