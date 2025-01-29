@@ -14,7 +14,7 @@ Ce mod n’est pas compatible avec les versions mobiles ou consoles de Among Us.
 
 Ce mod n’est garanti que sur les systèmes d’exploitation Windows. Nous n’avons pas l’intention d’assurer la compatibilité avec les systèmes d’exploitation basés sur Linux ou Mac.
 
-Ce mod a été testé et fonctionne avec les versions Steam, Epic et itch.io de Among Us.
+Ce mod a été testé et fonctionne avec les versions Steam, Epic Games et Microsoft de Among Us.
 
 # TUTO
 Téléchargez la version ZIP appropriée en fonction de votre version de Among Us.
@@ -28,12 +28,17 @@ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà 
 
 
 # Annonce 2025 !
-Bonjour, veiller m'excuser pour ce manque d'inactivité sur ce projet, sur mon Serveur Discord nous avons fait encore 0 évent dessus donc normale que j'y touche plus mais pendant les vacances de Février je le mettrais à jour à 100% avec beaucoup de bugs corriger et de nouveauté en plus !
+Bonjour, veillé m'excuser pour ce manque d'inactivité sur ce projet, sur mon Serveur Discord nous avons fait encore 0 évent dessus donc normale que j'y touche plus mais pendant les vacances de Février je le mettrais à jour à 100% avec beaucoup de bugs corrigés et de nouveautés en plus !
 
-De part, Bonne Année 2024 ! Je vous attend sur ma Chaine Youtube : https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
+De part, Bonne Année 2024 ! Je vous attend sur ma
+Chaine Youtube : 
+https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
 
 # Contact
+![Discord_Logo](https://github.com/user-attachments/assets/6c01a6b3-829a-4eb2-8c77-dc80eee5f774)
+
 Discord :
-antho_off &
-Twitch : 
-[https://www.twitch.tv/twitch_antho_off]
+antho_off
+
+Youtube : 
+https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
