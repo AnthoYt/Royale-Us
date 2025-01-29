@@ -28,7 +28,7 @@ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà 
 
 
 # Annonce 2025 !
-Bonjour, veiller m'excuser pour ce manque d'inactivité sur ce projet, sur mon Serveur Discord nous avons fait encore 0 évent dessus donc normale que j'y touche plus mais pendant les vacances de Février je le mettrais à jour à 100% avec beaucoup de bugs corriger et de nouveauté en plus !
+Bonjour, veillé m'excuser pour ce manque d'inactivité sur ce projet, sur mon Serveur Discord nous avons fait encore 0 évent dessus donc normale que j'y touche plus mais pendant les vacances de Février je le mettrais à jour à 100% avec beaucoup de bugs corrigés et de nouveautés en plus !
 
 De part, Bonne Année 2024 ! Je vous attend sur ma
 Chaine Youtube : 
