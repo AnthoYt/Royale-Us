@@ -27,13 +27,12 @@ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà 
 
 # Versions
 
-| Among Us Version  | Version Date |
-| -------------  | ------------- |
-|  `v 0.1`  |  `v2023.5.22`| [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.1)  |
-| `v 0.2`   |`v2023.6.8`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.2)  |
-| `v 0.3`  | `v2023.6.20`  | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.3)  |
-|  `v 0.4` |   `v2024.6.6` | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.4)  |
-|   `v 0.5` | `v2025.2.24` | [Download] En Cours de Création  |
+|                                       Among Us Version                                        |  Version |                                        Links                                        |
+|:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
+|                                         `v2024.11.26`<br>`v2024.10.29`<br>`v2024.9.4`<br>`v2024.8.13`                                        |   `v2024.6.6`    | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.4) )  |
+|                                         `v2023.6.18`                                          |    `v2023.6.20`    |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.3)  |
+|                                  `v2023.6.4`<br>`v2024.3.5`                                   |   `v2023.6.8`    | [Download](github.com/AnthoYt/Royale-Us/releases/tag/0.2)  |
+|                                         `v2023.11.28`                                         |   `v2023.5.22`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.1) |
 
 
 
@@ -52,6 +51,10 @@ antho_off
 
 Youtube : 
 https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
+
+
+                                                                               
+
 
 
 
