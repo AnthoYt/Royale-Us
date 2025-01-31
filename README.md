@@ -27,12 +27,12 @@ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà 
 
 # Versions
 
-| Version    | Download |
-| -------- | ------- |
-| .......  | ....    |
-| .........| ...     |
-| ........ | ....    |
-
+| Version    Download |
+| 0.1      | (https://github.com/AnthoYt/Royale-Us/releases/tag/0.1) |
+| 0.2      | (https://github.com/AnthoYt/Royale-Us/releases/tag/0.2) |
+| 0.3      | (https://github.com/AnthoYt/Royale-Us/releases/tag/0.3) |
+| 0.4      | (https://github.com/AnthoYt/Royale-Us/releases/tag/0.4) |
+| 0.5      | En Cours de Création |
 
 
 # Annonce 2025 !
