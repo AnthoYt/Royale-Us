@@ -17,11 +17,17 @@ Ce mod n’est garanti que sur les systèmes d’exploitation Windows. Nous n’
 Ce mod a été testé et fonctionne avec les versions Steam, Epic Games et Microsoft de Among Us.
 
 # TUTO
-Téléchargez la version ZIP appropriée en fonction de votre version de Among Us.
-Accédez à votre répertoire d’installation Among Us.
-Extrayez les fichiers téléchargés à cet endroit. Assurez-vous que le dossier se trouve dans le même dossier que le fichier (voir la capture d’écran ci-dessous).BepInExAmong Us.exe
-Lancez le jeu (veuillez noter que le premier lancement peut prendre un certain temps).
-Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà installé BepInEx, vous pouvez télécharger le fichier DLL directement et le placer dans .BepInEx/plugins
+- 1 Téléchargez la version ZIP correcte en fonction de votre version de Among Us.
+
+- 2 Accédez au répertoire d’installation de Among Us.
+
+- 3 Extrayez-y les fichiers téléchargés. Assurez-vous que le dossier se trouve dans le même dossier que le fichier (voir la capture d’écran ci-dessous). BepInExAmong Us.exe
+
+- 4 Lancez le jeu (veuillez noter que le premier lancement peut prendre un certain temps).
+
+⚠️ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà installé BepInEx, vous pouvez télécharger le fichier DLL directement et le placer dans .BepInEx/plugins
+
+![Capture d'écran 2025-01-31 162040](https://github.com/user-attachments/assets/7ff08c67-2833-4936-9f57-b80c4d493c8f)
 
 ![hq720 (1)](https://github.com/user-attachments/assets/464e0f80-ca8e-4b75-a605-43a7a8d5a50d)
 
