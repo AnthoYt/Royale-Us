@@ -64,7 +64,13 @@ Ce mod a été testé et fonctionne avec les versions Steam, Epic Games et Micro
 | 한국어                     | ❌  |          Not Translated           |
 
 
+# Problème & Support
 
+Merci d'aller dans [Issue](https://github.com/AnthoYt/Royale-Us/issues) pour faire un Ticket et que vous êtes pris en charge par le Support sous 24H.
+
+⚠️ | Tout Problème en rapport avec une date de prochaine mise à jour, c'est indiqué dans la catégorie [Version](https://github.com/AnthoYt/Royale-Us?tab=readme-ov-file#versions) 
+
+⚠️ | Tout Problème en rapport avec l'installation, je dépanne pas sous forme de Linux. La Plat-forme Microsoft n'est pas encore accessible pour mon Mod.
 
 # Contact
 ![Discord_Logo](https://github.com/user-attachments/assets/6c01a6b3-829a-4eb2-8c77-dc80eee5f774)
