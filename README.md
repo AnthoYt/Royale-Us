@@ -27,22 +27,13 @@ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà 
 
 # Versions
 
-|                                       Among Us Version                                                                             Links                                        |
-|:---------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-|                                                     
-|                                         `v 0.1`                                         |    `v2023.5.22`    |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.1)  |
-|                                         `v 0.2`                                         |   `v2023.6.8`    |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.2)  |
-|                                         `v 0.3`                                         |   `v2023.6.20`   |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.3)  |
-|                                         `v 0.4`                                         |   `v2024.6.6`    |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.4)  |
-|                                         `v 0.5`                                         |   `v2025.2.24`    |  [Download] En Cours de Création                                   |
-
-| Among Us Version  | Version Date | | Download |
-| -------------  | ------------- | ------------------------------------------------------------------- |
-|  `v 0.1`  |  `v2023.5.22` |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.1)  |
-| `v 0.2`   |`v2023.6.8`  | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.2)  |
-| `v 0.3`  | `v2023.6.20` |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.3)  |
+| Among Us Version  | Version Date |
+| -------------  | ------------- |
+|  `v 0.1`  |  `v2023.5.22`| [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.1)  |
+| `v 0.2`   |`v2023.6.8`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.2)  |
+| `v 0.3`  | `v2023.6.20`  | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.3)  |
 |  `v 0.4` |   `v2024.6.6` | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.4)  |
-|   `v 0.5` | `v2025.2.24` |  [Download] En Cours de Création  |
+|   `v 0.5` | `v2025.2.24` | [Download] En Cours de Création  |
 
 
 
