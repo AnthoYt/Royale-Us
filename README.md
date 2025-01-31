@@ -27,17 +27,16 @@ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà 
 
 # Versions
 
-| Version  |  Download |
+|                                       Among Us Version                                                                             Links                                        |
+|:---------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
+|                                                     
+|                                         `v 0.1`                                         |    `v2023.5.22`    |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.1)  |
+|                                         `v 0.2`                                         |   `v2023.6.8`    |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.2)  |
+|                                         `v 0.3`                                         |   `v2023.6.20`   |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.3)  |
+|                                         `v 0.4`                                         |   `v2024.6.6`    |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.4)  |
+|                                         `v 0.5`                                         |   `v2025.2.24`    |  [Download] En Cours de Création                                   |
 
-| 0.1      | (https://github.com/AnthoYt/Royale-Us/releases/tag/0.1) |
 
-| 0.2      | (https://github.com/AnthoYt/Royale-Us/releases/tag/0.2) |
-
-| 0.3      | (https://github.com/AnthoYt/Royale-Us/releases/tag/0.3) |
-
-| 0.4      | (https://github.com/AnthoYt/Royale-Us/releases/tag/0.4) |
-
-| 0.5      | En Cours de Création |
 
 
 # Annonce 2025 !
@@ -55,3 +54,7 @@ antho_off
 
 Youtube : 
 https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
+
+
+
+
