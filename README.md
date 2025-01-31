@@ -9,12 +9,6 @@ Normalement vous devez avoir ça comme écran d'affichage :
 
 ![Among Us 11_06_2024 20_11_41](https://github.com/AnthoYt/Royale-Us/assets/113532396/a32b30ad-2fec-40df-ae83-793079db1faa)
 
-# Explication 
-Ce mod n’est pas compatible avec les versions mobiles ou consoles de Among Us.
-
-Ce mod n’est garanti que sur les systèmes d’exploitation Windows. Nous n’avons pas l’intention d’assurer la compatibilité avec les systèmes d’exploitation basés sur Linux ou Mac.
-
-Ce mod a été testé et fonctionne avec les versions Steam, Epic Games et Microsoft de Among Us.
 
 # TUTO
 - 1 Téléchargez la version ZIP correcte en fonction de votre version de Among Us.
