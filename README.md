@@ -37,12 +37,6 @@ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà 
 
 
 
-# Annonce 2025 !
-Bonjour, veillé m'excuser pour ce manque d'inactivité sur ce projet, sur mon Serveur Discord nous avons fait encore 0 évent dessus donc normale que j'y touche plus mais pendant les vacances de Février je le mettrais à jour à 100% avec beaucoup de bugs corrigés et de nouveautés en plus !
-
-De part, Bonne Année 2024 ! Je vous attend sur ma
-Chaine Youtube : 
-https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
 
 # Contact
 ![Discord_Logo](https://github.com/user-attachments/assets/6c01a6b3-829a-4eb2-8c77-dc80eee5f774)
