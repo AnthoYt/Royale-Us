@@ -36,6 +36,28 @@ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà 
 |                                         `v2023.11.28`                                         |   `v2023.5.22`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.1) |
 
 
+# Language
+
+| Language                | ❔  |              Status               |
+|-------------------------|:--:|:---------------------------------:|
+| English                 | ✅  |         Fully Translated          |
+| Deutsch                 | ✅  |         Fully Translated          |
+| Français                | ✅  |         Fully Translated          |
+| Italiano                | ✅  |         Fully Translated          |
+| Nederlands              | ❌ |         Not Translated           |
+| Português (Brasil)      | ❌  |        Not Translated           |
+| Русский                 | ❌  |         Not Translated           |
+| 日本語                     | ❌  |         Not Translated           |
+| 简体中文                    | ❌  |        Not Translated          |
+| 繁體中文                    | ❌  |         Not Translated          |
+| Español                 | 🟡 |       Partially Translated        |
+| Bisaya                  | ❌  |          Not Translated           |
+| Español (Latinoamérica) | ❌  | Not Translated<br>(Using Español) |
+| Gaeilge                 | ❌  |          Not Translated           |
+| Português               | ✅  |          Fully Translated           |
+| 한국어                     | ❌  |          Not Translated           |
+
+
 
 
 # Contact
