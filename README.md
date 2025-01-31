@@ -67,6 +67,8 @@ Merci d'aller dans [Issue](https://github.com/AnthoYt/Royale-Us/issues) pour fai
 
 ⚠️ | Tout Problème en rapport avec l'installation, je dépanne pas sous forme de Linux. La Plat-forme Microsoft n'est pas encore accessible pour mon Mod.
 
+⚠️ | Tout problème du langague du mod est tout à fait normal, merci d'aller vérifier ici [Language](https://github.com/AnthoYt/Royale-Us#language).
+
 # Contact
 ![Discord_Logo](https://github.com/user-attachments/assets/6c01a6b3-829a-4eb2-8c77-dc80eee5f774)
 
