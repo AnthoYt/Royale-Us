@@ -69,6 +69,8 @@ antho_off
 Youtube : 
 https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
 
+[![Discord]([.Discord_Logo.png](https://github.com/user-attachments/assets/6c01a6b3-829a-4eb2-8c77-dc80eee5f774))]([https://discord.gg/w7msq53dq7](https://discord.com/invite/ad7aMevNMx))
+
 
                                                                                
 
