@@ -4,7 +4,7 @@ Il s’agit d’un résumé lisible par l’homme (et non d’un substitut) de l
 
 Vous pouvez utiliser, modifier, partager, distribuer ou inclure Royale Polus dans votre propre modpack ou téléchargement de mods, sous les conditions suivantes :
 
-Vous ne pouvez pas modifier l'assemblage submergé (DLL) de quelque manière que ce soit.
+Vous ne pouvez pas modifier l'assemblage Royale Polus (DLL) de quelque manière que ce soit.
 
 Vous pouvez cependant utiliser Harmony pour patcher l'assemblure Royale Polus, à condition que vos modifications soient effectuées pour assurer la compatibilité avec d'autres mods.
 Vous pouvez modifier le code sourceure Royale Polus (en créant un fork du référentiel et en soumettant une demande d'extraction), à condition que vos modifications soient effectuées pour contribuer à ce référentiel. Vous ne pouvez pas dupliquer ce référentiel et modifier le code source pour votre propre usage.
