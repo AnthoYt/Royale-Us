@@ -27,7 +27,7 @@ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà 
 
 # Versions
 
-| Version    Download |
+| Version  &  Download |
 
 | 0.1      | [Download] (https://github.com/AnthoYt/Royale-Us/releases/tag/0.1) |
 
