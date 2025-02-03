@@ -45,18 +45,10 @@ Normalement vous devez avoir ça comme écran d'affichage :
 | Deutsch                 | ✅  |         Fully Translated          |
 | Français                | ✅  |         Fully Translated          |
 | Italiano                | ✅  |         Fully Translated          |
-| Nederlands              | ❌ |         Not Translated           |
-| Português (Brasil)      | ❌  |        Not Translated           |
-| Русский                 | ❌  |         Not Translated           |
-| 日本語                     | ❌  |         Not Translated           |
-| 简体中文                    | ❌  |        Not Translated          |
-| 繁體中文                    | ❌  |         Not Translated          |
-| Español                 | 🟡 |       Partially Translated        |
+| Español                 | 🟡 |       Partially Translated         |
 | Bisaya                  | ❌  |          Not Translated           |
-| Español (Latinoamérica) | ❌  | Not Translated<br>(Using Español) |
 | Gaeilge                 | ❌  |          Not Translated           |
-| Português               | ✅  |          Fully Translated           |
-| 한국어                     | ❌  |          Not Translated           |
+| Português               | ✅  |          Fully Translated         |
 
 
 # Problème & Support
