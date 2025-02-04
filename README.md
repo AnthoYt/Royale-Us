@@ -3,7 +3,8 @@ Mod Royale
 Voici une nouvelle mape créé par moi ( Royale Polus ) avec l'aide du mod Level Imposteur.
 Cette map est une variante de la map Polus mais en une version différente.
 
-Si vous avez la moindre question Serveur Discord | [https://discord.com/invite/ad7aMevNMx]
+Si vous avez la moindre question Serveur <a href="https://discord.com/invite/ad7aMevNMx" target="_blank">Discord</a>
+
 
 
 Normalement vous devez avoir ça comme écran d'affichage : 
@@ -21,6 +22,10 @@ Normalement vous devez avoir ça comme écran d'affichage :
 - 4 Lancez le jeu (veuillez noter que le premier lancement peut prendre un certain temps).
 
 ⚠️ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà installé BepInEx, vous pouvez télécharger le fichier DLL directement et le placer dans .BepInEx/plugins
+
+
+Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.com/playlist?list=PLIGHmyPy3Hvd80jOBZETUn-07pyVXcyGu" target="_blank">🛑YOUTUBE 🎞️🎥</a>
+
 
 ![Capture d'écran 2025-01-31 162040](https://github.com/user-attachments/assets/7ff08c67-2833-4936-9f57-b80c4d493c8f)
 
@@ -64,11 +69,13 @@ Merci d'aller dans [Issue](https://github.com/AnthoYt/Royale-Us/issues) pour fai
 # Contact
 
 Discord :
-- antho_off | Chef de Projet & Dev
-- robindu28 | Technicien du Support
+- <a href="https://github.com/AnthoYt" target="_blank">antho_off</a>
+ | Chef de Projet & Dev
+- <a href="https://github.com/superrobinou" target="_blank">robindu28</a>
+ | Technicien du Support
 
-Youtube : 
-https://www.youtube.com/channel/UCCazBlKJ-ZB9f3V_RpHdrZg
+<a href="https://www.youtube.com/@Royale_Antho" target="_blank">Youtube</a>
+
 
 
 
