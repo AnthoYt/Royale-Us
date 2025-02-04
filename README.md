@@ -68,7 +68,6 @@ Merci d'aller dans [Issue](https://github.com/AnthoYt/Royale-Us/issues) pour fai
 
 # Contact
 
-Discord :
 - <a href="https://github.com/AnthoYt" target="_blank">antho_off</a>
  | Chef de Projet & Dev
 - <a href="https://github.com/superrobinou" target="_blank">robindu28</a>
