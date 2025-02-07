@@ -47,12 +47,10 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 | Language                | ❔  |              Status               |
 |-------------------------|:--:|:---------------------------------:|
 | English                 | ✅  |         Fully Translated          |
-| Deutsch                 | ✅  |         Fully Translated          |
 | Français                | ✅  |         Fully Translated          |
 | Italiano                | ✅  |         Fully Translated          |
 | Español                 | 🟡 |       Partially Translated         |
 | Bisaya                  | ❌  |          Not Translated           |
-| Gaeilge                 | ❌  |          Not Translated           |
 | Português               | ✅  |          Fully Translated         |
 
 
