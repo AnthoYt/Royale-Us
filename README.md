@@ -1,7 +1,7 @@
 # Royale Us ( Polus )
 Royale Us :
 
-Voici une nouvelle mape créé par moi ( Royale Polus ) avec l'aide du mod Level Imposteur.
+Voici une nouvelle mape créé par @Antho ( Royale Polus ) avec l'aide du mod Level Imposteur.
 Cette map est une variante de la map Polus mais en une version différente.
 
 Si vous avez la moindre question Serveur <a href="https://discord.com/invite/ad7aMevNMx" target="_blank">Discord</a>
