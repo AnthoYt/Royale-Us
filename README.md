@@ -1,5 +1,6 @@
 # Royale Us ( Polus )
-Mod Royale
+Royale Us :
+
 Voici une nouvelle mape créé par moi ( Royale Polus ) avec l'aide du mod Level Imposteur.
 Cette map est une variante de la map Polus mais en une version différente.
 
