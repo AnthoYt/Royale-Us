@@ -57,7 +57,7 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 
 # Problème & Support
 
-Merci d'aller dans [Issue](https://github.com/AnthoYt/Royale-Us/issues) pour faire un Ticket et que vous êtes pris en charge par le Support sous 24H.
+Merci d'aller dans [Ticket](https://github.com/AnthoYt/Royale-Us/issues) pour faire un Ticket et que vous êtes pris en charge par le Support sous 24H.
 
 ⚠️ | Tout Problème en rapport avec une date de prochaine mise à jour, c'est indiqué dans la catégorie [Version](https://github.com/AnthoYt/Royale-Us?tab=readme-ov-file#versions) 
 
