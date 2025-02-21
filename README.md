@@ -1,4 +1,4 @@
-# Voici les Mises à jour 2025 du MOD :
+# Voici les Mises à jour 2025 :
 
 ![image](https://github.com/user-attachments/assets/bb757914-b96f-41dc-9760-994cc37085e1)
 
