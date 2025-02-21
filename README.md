@@ -48,7 +48,7 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 |                                         `v2023.11.28`                                         |   `v2023.5.22`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.1) |
 
 
-# Langue
+# Langues
 
 | Langue               | ❔  |              Status               |
 |-------------------------|:--:|:---------------------------------:|
