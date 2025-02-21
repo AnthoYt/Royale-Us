@@ -1,5 +1,10 @@
+# Voici les Mises à jour 2025 du MOD :
+
+![image](https://github.com/user-attachments/assets/bb757914-b96f-41dc-9760-994cc37085e1)
+
+
+
 # Royale Us ( Polus )
-Royale Us :
 
 Voici une nouvelle mape créé par @Antho ( Royale Polus ) avec l'aide du mod Level Imposteur.
 Cette map est une variante de la map Polus mais en une version différente.
