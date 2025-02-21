@@ -1,9 +1,7 @@
 public class CustomOption {
     public enum CustomOptionType {
-        General,
         Impostor,
         Crewmate,
-        Modifier,
     }
 
     public static List<CustomOption> options = new();
