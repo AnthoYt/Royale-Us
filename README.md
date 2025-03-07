@@ -58,8 +58,8 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 | Anglais                 | ✅  |         Entièrement traduit         |
 | Français                | ✅  |         Entièrement traduit        |
 | Italien                 | ✅  |        Entièrement traduit      |
-| Espagnol                | 🟡 |       Partiellement traduit        |
-| Bisaya                  | ❌  |          Non traduit          |
+| Espagnol                | ✅  |       Entièrement traduit         |
+| Bisaya                  | 🟡  |          Partiellement traduit          |
 | Portugais               | ✅  |         Entièrement traduit        |
 
 
