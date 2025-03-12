@@ -76,9 +76,9 @@ Merci d'aller dans [Ticket](https://github.com/AnthoYt/Royale-Us/issues) pour fa
 
 # Contact
 
-- <a href="https://github.com/AnthoYt" target="_blank">antho_off</a>
+- <a href="https://github.com/AnthoYt" target="_blank">Antho</a>
  | Chef de Projet & Dev
-- <a href="https://github.com/superrobinou" target="_blank">robindu28</a>
+- <a href="https://github.com/superrobinou" target="_blank">Robin</a>
  | Technicien du Support
 
 <a href="https://www.youtube.com/@Royale_Antho" target="_blank">Youtube</a>
