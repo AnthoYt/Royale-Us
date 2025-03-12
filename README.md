@@ -46,7 +46,7 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
 |                                         `v2025.*.**`                                         |   `v2025.*.**`   | [Prochainement]() |
 |                                         `v2025.2.18`                                         |   `v2025.2.22`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.5) |
-|                                         `v2024.11.26`<br>`v2024.10.29`<br>`v2024.9.4`<br>`v2024.8.13`                                        |   `v2024.6.6`    | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.4)  |
+|                                         `v2024.10.29`<br>`v2024.9.4`<br>`v2024.8.13`                                        |   `v2024.6.6`    | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.4)  |
 |                                         `v2023.6.18`                                          |    `v2023.6.20`    |  [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.3)  |
 |                                  `v2023.6.4`<br>`v2024.3.5`                                   |   `v2023.6.8`    | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.2)  |
 |                                         `v2023.5.12`                                         |   `v2023.5.22`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.1) |
