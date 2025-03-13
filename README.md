@@ -18,7 +18,8 @@ Si vous avez la moindre question Serveur <a href="https://discord.com/invite/ad7
 
 Normalement vous devriez avoir ça comme écran d'affichage sur la map : ( 🛑L'image n'est pas à jour )
 
-![Among Us 11_06_2024 20_11_41](https://github.com/AnthoYt/Royale-Us/assets/113532396/a32b30ad-2fec-40df-ae83-793079db1faa)
+![map (1)](https://github.com/user-attachments/assets/a8e7411a-1dcb-48fc-922f-9260b5a4d6b3)
+
 
 
 # TUTO
