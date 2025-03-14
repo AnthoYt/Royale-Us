@@ -41,7 +41,7 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 
 ![hq720 (1)](https://github.com/user-attachments/assets/464e0f80-ca8e-4b75-a605-43a7a8d5a50d)
 
-# Versions
+## Déploiements
 
 |                                       Among Us Version                                        |  Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
