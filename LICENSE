@@ -30,6 +30,7 @@ Droits sous licence désigne les droits qui vous sont accordés sous réserve de
 Les exceptions désignent toutes les exemptions à la licence négociées entre vous et le concédant.
 Limitations désigne toutes les limitations de la Licence qui vous sont imposées par le Concédant.
 Partager signifie fournir du matériel au public par tout moyen ou processus, tel que la redistribution, la copie de fichiers numériques, le téléchargement, et mettre du matériel à la disposition du public, y compris de manière à ce que les membres du public puissent accéder au matériel à partir d'un endroit et à un moment choisis individuellement par eux.
+
 Section 2 – Champ d’application.
 
 Droit de licence .
@@ -39,7 +40,8 @@ Durée . La durée de la présente Licence publique est précisée à l'article 
 Destinataires en aval .
 Offre du Concédant – Matériel sous licence . Chaque destinataire du Matériel sous licence reçoit automatiquement une offre du Concédant lui permettant d’exercer les Droits sous licence conformément aux termes et conditions de la présente Licence.
 Aucune restriction en aval . Vous ne pouvez pas proposer ou imposer des conditions supplémentaires ou différentes sur le matériel sous licence si cela restreint l'exercice des droits sous licence par tout destinataire du matériel sous licence.
-Aucune approbation . Rien dans la présente Licence publique ne constitue ou ne peut être interprété comme une autorisation d'affirmer ou d'impliquer que vous êtes, ou que votre utilisation du matériel sous licence est, liée au concédant ou à d'autres personnes désignées pour recevoir une attribution, ou parrainée, approuvée ou bénéficiant d'un statut officiel de leur part, comme prévu à la section 3(a)(1)(A)(i) .
+Aucune approbation . Rien dans la présente Licence publique ne constitue ou ne peut être interprété comme une autorisation d'affirmer ou d'impliquer que vous êtes, ou que votre utilisation du matériel sous licence est, liée au concédant ou à d'autres personnes désignées pour recevoir une attribution, ou parrainée, approuvée ou bénéficiant d'un statut officiel de leur part, comme prévu à la section 3(a)(1)(A)(i).
+
 Section 3 – Conditions de licence.
 
 L’exercice des Droits de Licence est expressément soumis aux conditions suivantes.
@@ -65,11 +67,13 @@ Modification limitée dans le formulaire source .
 Si vous partagez le matériel sous licence sous forme source, vous devez :
 
 ne pas modifier les fichiers contenus dans le matériel sous licence sous forme source à quelque titre que ce soit, sauf dans les cas où les modifications sont apportées dans le but d'apporter des améliorations ou des perfectionnements au référentiel ou au projet parent, comme indiqué dans les directives ou politiques de contribution fournies par le concédant.
+
 Section 4 – Exclusion de garanties et limitation de responsabilité.
 
 Sauf engagement contraire pris séparément par le concédant, dans la mesure du possible, le concédant propose le matériel sous licence tel quel et tel que disponible, et ne fait aucune déclaration ni ne donne aucune garantie d'aucune sorte concernant le matériel sous licence, qu'elle soit expresse, implicite, légale ou autre. Cela comprend, sans limitation, les garanties de titre, de qualité marchande, d'adéquation à un usage particulier, de non-contrefaçon, d'absence de défauts latents ou autres, d'exactitude ou de présence ou d'absence d'erreurs, qu'elles soient connues ou non ou décelables. Lorsque les renonciations à des garanties ne sont pas autorisées en tout ou en partie, cette renonciation peut ne pas s'appliquer à vous.
 Dans la mesure du possible, le Concédant ne pourra en aucun cas être tenu responsable envers Vous, sur la base d'une quelconque théorie juridique (y compris, sans limitation, la négligence) ou autre, de toute perte, coût, dépense ou dommage direct, spécial, indirect, accessoire, consécutif, punitif, exemplaire ou autre découlant de la présente Licence publique ou de l'utilisation du Matériel sous licence, même si le Concédant a été informé de la possibilité de telles pertes, coûts, dépenses ou dommages. Lorsqu'une limitation de responsabilité n'est pas autorisée en totalité ou en partie, cette limitation peut ne pas s'appliquer à Vous.
 La clause de non-responsabilité et la limitation de responsabilité mentionnées ci-dessus doivent être interprétées de manière à se rapprocher, dans la mesure du possible, d'une clause de non-responsabilité absolue et d'une renonciation à toute responsabilité.
+
 Section 5 – Durée et résiliation.
 
 Si vous ne respectez pas cette licence, vos droits en vertu de cette licence prennent fin automatiquement.
@@ -83,6 +87,7 @@ Lorsque votre droit d'utiliser le matériel sous licence a pris fin en vertu de 
 Afin d'éviter tout doute, les sections 5(a) et 5(b) n'affectent aucun droit que le concédant pourrait avoir de rechercher des recours pour vos violations de cette licence.
 Le concédant peut proposer le matériel sous licence selon des conditions distinctes ; toutefois, cela ne mettra pas fin à cette licence.
 Les sections 1 , 4 , 5 et 6 survivent à la résiliation de cette licence.
+
 Section 6 – Autres conditions générales.
 
 Le Concédant ne sera pas lié par des conditions supplémentaires ou différentes communiquées par Vous, sauf accord exprès.
