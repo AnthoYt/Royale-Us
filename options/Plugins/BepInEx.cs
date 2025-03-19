@@ -1,3 +1,5 @@
+https://github.com/VedalAI/neuro-amongus/releases
+
 using System;
 using System.Collections;
 using System.Diagnostics;
