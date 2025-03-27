@@ -10,10 +10,10 @@ using AmongUs.Data;
 using Hazel;
 using Reactor.Utilities.Extensions;
 
-namespace Royale Us
+namespace RoyaleUs
 {
     [HarmonyPatch]
-    public static class Royale Us
+    public static class RoyaleUs
     {
         public static System.Random rnd = new System.Random((int)DateTime.Now.Ticks);
 
