@@ -1,4 +1,4 @@
-# Voici les Mises à jour 2025 :
+# Voici les Mises à jour Pour 2025 :
 Va check <a href="https://github.com/AnthoYt/Royale-Us/discussions/11" target="_blank">Annonce</a> pour avoir toutes les infos !
 
 
