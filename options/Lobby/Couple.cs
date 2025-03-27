@@ -21,59 +21,49 @@ namespace RoyaleUs
             Lovers.clearAndReload();
         }
 
+        public static class Lovers
+        {
+            public static PlayerControl Lover1 { get; private set; }
+            public static PlayerControl Lover2 { get; private set; }
+            public static readonly Color color = new Color32(232, 57, 185, byte.MaxValue);
 
-public static class Lovers
-{
-    public static PlayerControl lover1;
-    public static PlayerControl lover2;
-    public static Color color = new Color32(232, 57, 185, byte.MaxValue);
+            public static bool bothDie = true;
+            public static bool enableChat = true;
+            public static bool notAckedExiledIsLover = false;
 
-    public static bool bothDie = true;
-    public static bool enableChat = true;
-    // Les amoureux sauvegardent si le prochain à être exilé est un amoureux, car le RPC de fin de partie vient avant le RPC de l'exilé
-    public static bool notAckedExiledIsLover = false;
+            public static bool existing() =>
+                Lover1 != null && Lover2 != null && !Lover1.Data.Disconnected && !Lover2.Data.Disconnected;
 
-    public static bool existing() =>
-    lover1 != null && lover2 != null && !lover1.Data.Disconnected && !lover2.Data.Disconnected;
-    }
+            public static bool existingAndAlive() =>
+                existing() && !Lover1.Data.IsDead && !Lover2.Data.IsDead && !notAckedExiledIsLover;
 
-   public static bool existingAndAlive() =>
-        existing() && !lover1.Data.IsDead && !lover2.Data.IsDead && !notAckedExiledIsLover;
-    }
+            public static PlayerControl otherLover(PlayerControl oneLover) {
+                if (!existingAndAlive()) return null;
+                return oneLover == Lover1 ? Lover2 : oneLover == Lover2 ? Lover1 : null;
+            }
 
-    public static PlayerControl otherLover(PlayerControl oneLover) {
-        if (!existingAndAlive()) return null;
-        if (oneLover == lover1) return lover2;
-        if (oneLover == lover2) return lover1;
-        return null;
-    }
+            public static bool existingWithKiller() =>
+                existing() && (Lover1 == Sidekick.sidekick || Lover2 == Sidekick.sidekick || Lover1.Data.Role.IsImpostor || Lover2.Data.Role.IsImpostor);
 
-    public static bool existingWithKiller() {
-        return existing() && (lover1 == Sidekick.sidekick    || lover2 == Sidekick.sidekick
-                           || lover1.Data.Role.IsImpostor || lover2.Data.Role.IsImpostor);
-    }
+            public static bool hasAliveKillingLover(this PlayerControl player) {
+                if (!existingAndAlive() || !existingWithKiller())
+                    return false;
+                return player != null && (player == Lover1 || player == Lover2);
+            }
 
-    public static bool hasAliveKillingLover(this PlayerControl player) {
-        if (!Lovers.existingAndAlive() || !existingWithKiller())
-            return false;
-        return (player != null && (player == lover1 || player == lover2));
-    }
+            public static void clearAndReload() {
+                Lover1 = null;
+                Lover2 = null;
+                notAckedExiledIsLover = false;
+                bothDie = CustomOptionHolder.modifierLoverBothDie.getBool();
+                enableChat = CustomOptionHolder.modifierLoverEnableChat.getBool();
+            }
 
-    public static void clearAndReload() {
-        lover1 = null;
-        lover2 = null;
-        notAckedExiledIsLover = false;
-        bothDie = CustomOptionHolder.modifierLoverBothDie.getBool();
-        enableChat = CustomOptionHolder.modifierLoverEnableChat.getBool();
-    }
-
-    public static PlayerControl getPartner(this PlayerControl player) {
-        if (player == null)
-            return null;
-        if (lover1 == player)
-            return lover2;
-        if (lover2 == player)
-            return lover1;
-        return null;
+            public static PlayerControl getPartner(this PlayerControl player) {
+                if (player == null)
+                    throw new ArgumentNullException(nameof(player));
+                return player == Lover1 ? Lover2 : player == Lover2 ? Lover1 : null;
+            }
+        }
     }
 }
