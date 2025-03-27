@@ -4,7 +4,6 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using RoyaleUs.Objects;
-
 using RoyaleUs.Utilities;
 using static RoyaleUs.RoyaleUs;
 using AmongUs.Data;
