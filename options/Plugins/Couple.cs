@@ -6,7 +6,6 @@ using UnityEngine;
 using RoyaleUs.Objects;
 
 using RoyaleUs.Utilities;
-using RoyaleUs.CustomGameModes;
 using static RoyaleUs.RoyaleUs;
 using AmongUs.Data;
 using Hazel;
@@ -32,7 +31,7 @@ public static class Lovers
 
     public static bool bothDie = true;
     public static bool enableChat = true;
-    // Lovers save if next to be exiled is a lover, because RPC of ending game comes before RPC of exiled
+    // Les amoureux sauvegardent si le prochain à être exilé est un amoureux, car le RPC de fin de partie vient avant le RPC de l'exilé
     public static bool notAckedExiledIsLover = false;
 
     public static bool existing() {
@@ -51,9 +50,8 @@ public static class Lovers
     }
 
     public static bool existingWithKiller() {
-        return existing() && (lover1 == Jackal.jackal     || lover2 == Jackal.jackal
-                           || lover1 == Sidekick.sidekick || lover2 == Sidekick.sidekick
-                           || lover1.Data.Role.IsImpostor      || lover2.Data.Role.IsImpostor);
+        return existing() && (lover1 == Sidekick.sidekick    || lover2 == Sidekick.sidekick
+                           || lover1.Data.Role.IsImpostor || lover2.Data.Role.IsImpostor);
     }
 
     public static bool hasAliveKillingLover(this PlayerControl player) {
