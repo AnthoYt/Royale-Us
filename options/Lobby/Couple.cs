@@ -15,7 +15,7 @@ namespace RoyaleUs
     [HarmonyPatch]
     public static class RoyaleUs
     {
-        public static System.Random rnd = new System.Random((int)DateTime.Now.Ticks);
+        public static readonly System.Random rnd = new System.Random((int)DateTime.Now.Ticks);
 
         public static void clearAndReloadRoles() {
             Lovers.clearAndReload();
@@ -33,12 +33,12 @@ public static class Lovers
     // Les amoureux sauvegardent si le prochain à être exilé est un amoureux, car le RPC de fin de partie vient avant le RPC de l'exilé
     public static bool notAckedExiledIsLover = false;
 
-    public static bool existing() {
-        return lover1 != null && lover2 != null && !lover1.Data.Disconnected && !lover2.Data.Disconnected;
+    public static bool existing() =>
+    lover1 != null && lover2 != null && !lover1.Data.Disconnected && !lover2.Data.Disconnected;
     }
 
-    public static bool existingAndAlive() {
-        return existing() && !lover1.Data.IsDead && !lover2.Data.IsDead && !notAckedExiledIsLover; // ADD NOT ACKED IS LOVER
+   public static bool existingAndAlive() =>
+        existing() && !lover1.Data.IsDead && !lover2.Data.IsDead && !notAckedExiledIsLover;
     }
 
     public static PlayerControl otherLover(PlayerControl oneLover) {
