@@ -16,7 +16,7 @@ Si vous avez la moindre question Serveur <a href="https://discord.com/invite/ad7
 
 
 
-Normalement vous devriez avoir ça comme écran d'affichage sur la map : ( 🛑L'image n'est pas à jour )
+Normalement vous devriez avoir ça comme écran d'affichage sur la map :
 
 ![image](https://github.com/user-attachments/assets/3d1e7786-1542-4209-83fc-7cb716913613)
 
