@@ -23,13 +23,13 @@ Normalement vous devriez avoir ça comme écran d'affichage sur la map :
 
 
 # TUTO
-- 1 Téléchargez la version ZIP correcte en fonction de votre version de Among Us.
+- Téléchargez la version ZIP correcte en fonction de votre version de Among Us.
 
-- 2 Accédez au répertoire d’installation de Among Us.
+- Accédez au répertoire d’installation de Among Us.
 
-- 3 Extrayez-y les fichiers téléchargés. Assurez-vous que le dossier se trouve dans le même dossier que le fichier (voir la capture d’écran ci-dessous). BepInExAmong Us.exe
+- Extrayez-y les fichiers téléchargés. Assurez-vous que le dossier se trouve dans le même dossier que le fichier (voir la capture d’écran ci-dessous). BepInExAmong Us.exe
 
-- 4 Lancez le jeu (veuillez noter que le premier lancement peut prendre un certain temps).
+- Lancez le jeu (veuillez noter que le premier lancement peut prendre un certain temps).
 
 ⚠️ Alternativement, si vous utilisez déjà d’autres mods ou si vous avez déjà installé BepInEx, vous pouvez télécharger le fichier DLL directement et le placer dans .BepInEx/plugins
 
