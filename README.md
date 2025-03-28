@@ -2,8 +2,17 @@
 Va check <a href="https://github.com/AnthoYt/Royale-Us/discussions/11" target="_blank">Annonce</a> pour avoir toutes les infos !
 
 
-
 ![image](https://github.com/user-attachments/assets/bb757914-b96f-41dc-9760-994cc37085e1)
+
+# Problème & Support
+
+Merci d'aller dans [Ticket](https://github.com/AnthoYt/Royale-Us/issues) pour faire un Ticket et que vous êtes pris en charge par le Support sous 24H.
+
+⚠️ | Tout Problème en rapport avec une date de prochaine mise à jour, c'est indiqué dans la catégorie [Version](https://github.com/AnthoYt/Royale-Us?tab=readme-ov-file#versions) 
+
+⚠️ | Tout Problème en rapport avec l'installation, je dépanne pas sous forme de Linux. La Plat-forme Microsoft n'est pas encore accessible pour mon Mod.
+
+⚠️ | Tout problème du langague du mod est tout à fait normal, merci d'aller vérifier ici [Language](https://github.com/AnthoYt/Royale-Us#language).
 
 
 
@@ -69,15 +78,7 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 | Portugais               | ✅  |         Entièrement traduit        |
 
 
-# Problème & Support
 
-Merci d'aller dans [Ticket](https://github.com/AnthoYt/Royale-Us/issues) pour faire un Ticket et que vous êtes pris en charge par le Support sous 24H.
-
-⚠️ | Tout Problème en rapport avec une date de prochaine mise à jour, c'est indiqué dans la catégorie [Version](https://github.com/AnthoYt/Royale-Us?tab=readme-ov-file#versions) 
-
-⚠️ | Tout Problème en rapport avec l'installation, je dépanne pas sous forme de Linux. La Plat-forme Microsoft n'est pas encore accessible pour mon Mod.
-
-⚠️ | Tout problème du langague du mod est tout à fait normal, merci d'aller vérifier ici [Language](https://github.com/AnthoYt/Royale-Us#language).
 
 # Contact
 
