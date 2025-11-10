@@ -2,12 +2,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
 using static RoyaleUs.Modules.Colors; // Pour accéder à la liste CustomColor
-using static RoyaleUs.Modules.CustomColors; // Si tu utilises ColorStrings ou une méthode liée
 
 public class ColorLobbySelector : MonoBehaviour
 {
     public GameObject colorButtonPrefab; // À définir dans l’éditeur Unity
-    public Transform buttonContainer;    // Panel/Zone où les boutons seront placés
+    public Transform buttonContainer;    // Panel/Zone où les boutons seront placés dans le lobby
 
     void Start()
     {
@@ -54,14 +53,10 @@ public class ColorLobbySelector : MonoBehaviour
     // À compléter suivant ton système réseau personnalisé/mod Among Us
     void SendColorChangeNetwork(byte playerId, int colorIndex)
     {
-        // Ici, rédige ton RPC custom pour tous les clients
-        // Ex :
+        // Ici, rédige ton RPC custom pour tous les clients, ex :
         // var writer = AmongUsClient.Instance.StartRpcImmediately(PlayerControl.LocalPlayer.NetId, (byte)CustomRpcCallId.ColorChange, SendOption.Reliable);
         // writer.Write(playerId);
         // writer.Write(colorIndex);
         // AmongUsClient.Instance.FinishRpcImmediately(writer);
     }
-
-    // Pour la réception côté client (patch/Harmony sur le RPC), applique la couleur au bon joueur
-    // public static void OnReceiveColorChange(byte playerId, int colorIndex) { ... }
 }
