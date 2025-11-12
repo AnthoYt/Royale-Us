@@ -8,7 +8,7 @@ Va check <a href="https://github.com/AnthoYt/Royale-Us/discussions/11" target="_
 
 Merci d'aller dans [Ticket](https://github.com/AnthoYt/Royale-Us/issues) pour faire un Ticket et que vous êtes pris en charge par le Support sous 24H.
 
-⚠️ | Tout Problème en rapport avec une date de prochaine mise à jour, c'est indiqué dans la catégorie [Version](https://github.com/AnthoYt/Royale-Us?tab=readme-ov-file#versions) 
+⚠️ | Tout Problème en rapport avec une date de prochaine mise à jour, c'est indiqué dans la catégorie [Version](https://github.com/AnthoYt/Royale-Us?tab=readme-ov-file#d%C3%A9ploiements) 
 
 ⚠️ | Tout Problème en rapport avec l'installation, je dépanne pas sous forme de Linux. La Plat-forme Microsoft n'est pas encore accessible pour mon Mod.
 
