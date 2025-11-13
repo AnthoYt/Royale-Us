@@ -1,22 +1,65 @@
-private class ChatNotificationColorsPatch {
-    public static bool Prefix(ChatNotification __instance, PlayerControl sender, string text) {
-        ...
+using MiraAPI.Utilities;
+using Reactor.Localization.Utilities;
+using UnityEngine;
+
+namespace MiraAPI.Colors;
+
+/// <summary>
+/// Represents a custom color with a main color and a shadow color.
+/// </summary>
+/// <param name="name">The name of the option.</param>
+/// <param name="mainColor">The main color.</param>
+/// <param name="shadowColor">The shadow color.</param>
+public sealed class CustomColor(StringNames name, Color32 mainColor, Color32 shadowColor)
+{
+    /// <summary>
+    /// Gets or sets the main color.
+    /// </summary>
+    public Color32 MainColor { get; set; } = mainColor;
+
+    /// <summary>
+    /// Gets or sets the shadow color.
+    /// </summary>
+    public Color32 ShadowColor { get; set; } = shadowColor;
+
+    /// <summary>
+    /// Gets or sets the name of the color.
+    /// </summary>
+    public StringNames Name { get; set; } = name;
+
+    /// <summary>
+    /// Gets or sets whether the color is lighter or darker. Can be used to help with colorblind stuff.
+    /// </summary>
+    public CustomColorBrightness ColorBrightness { get; set; } = CustomColorBrightness.Darker;
+
+    /// <inheritdoc />
+    public CustomColor(StringNames name, Color32 mainColor) : this(name, mainColor, mainColor.GetShadowColor(60))
+    {
+    }
+
+    /// <inheritdoc />
+    public CustomColor(string name, Color32 mainColor) : this(name, mainColor, mainColor.GetShadowColor(60))
+    {
+    }
+
+    /// <inheritdoc />
+    public CustomColor(string name, Color32 mainColor, Color32 shadowColor) : this(CustomStringName.CreateAndRegister(name), mainColor, shadowColor)
+    {
     }
 }
 
-[HarmonyPatch(typeof(PlayerTab), nameof(PlayerTab.OnEnable))]
-private static class PlayerTabEnablePatch {
-    public static void Postfix(PlayerTab __instance) {
-        ...
-    }
-}
+/// <summary>
+/// Can be used to help with colorblind stuff.
+/// </summary>
+public enum CustomColorBrightness
+{
+    /// <summary>
+    /// A lighter color.
+    /// </summary>
+    Lighter,
 
-[HarmonyPatch(typeof(LegacySaveManager), nameof(LegacySaveManager.LoadPlayerPrefs))]
-private static class LoadPlayerPrefsPatch {
-    ...
-}
-
-[HarmonyPatch(typeof(PlayerControl), nameof(PlayerControl.CheckColor))]
-private static class PlayerControlCheckColorPatch {
-    ...
+    /// <summary>
+    /// A darker color.
+    /// </summary>
+    Darker,
 }
