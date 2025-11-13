@@ -78,6 +78,11 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 | Bisaya                  | 🟡  |          Partiellement traduit          |
 | Portugais               | ✅  |         Entièrement traduit        |
 
+# Rôles
+
+LE PREMIER ROLE SUR CE MOD ! "LE MINER"
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ee2b3bf6-b2e9-4565-971d-edad9b5b7c10" />
 
 
 
