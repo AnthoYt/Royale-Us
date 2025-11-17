@@ -76,7 +76,7 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 | Italien                 | ✅  |        Entièrement traduit      |
 | Espagnol                | ✅  |       Entièrement traduit         |
 | Bisaya                  | 🟡  |          Partiellement traduit          |
-| Portugais               | ✅  |         Entièrement traduit        |
+| Portugais               | 🟡  |         Entièrement traduit        |
 
 
 
