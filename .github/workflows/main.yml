@@ -1,5 +1,6 @@
-name: CI
-
+ - name: Upload a Build Artifact
+  uses: actions/upload-artifact@v5.0.0
+  
 on: [ "push", "pull_request" ]
 
 jobs:
