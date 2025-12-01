@@ -1,3 +1,10 @@
+// Déclaration des variables en haut du script
+var target = Argument("target", "Build");
+
+var workflow = BuildSystem.GitHubActions.Environment.Workflow;
+var buildId = workflow.RunNumber;
+var tag = workflow.RefType == GitHubActionsRefType.Tag ? workflow.RefName.Substring(1) : null;
+
 Task("Build")
     .Does(() =>
 {
@@ -18,3 +25,5 @@ Task("Build")
 
     DotNetBuild("./LevelImposter.csproj", settings);
 });
+
+RunTarget(target);
