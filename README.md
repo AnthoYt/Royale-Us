@@ -58,7 +58,7 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 
 |                                       Among Us Version                                        |  Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
-|                                         `v2025.17.0.1`                                         |   `v2025.12.1`   | [Suivre ici](https://github.com/AnthoYt/Royale-Us/issues/16) |
+|                                         `v2025.17.0.1`                                         |   `v2025.12.**`   | [Suivre ici](https://github.com/AnthoYt/Royale-Us/issues/16) |
 |                                         `v2025.16.0.0`                                         |   `v2025.4.14`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.6) |
 |                                         `v2025.2.18`                                         |   `v2025.2.22`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.5) |
 |                                         `v2024.10.29`<br>`v2024.9.4`<br>`v2024.8.13`                                        |   `v2024.6.6`    | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.4)  |
