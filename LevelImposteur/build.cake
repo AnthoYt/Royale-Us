@@ -1,3 +1,4 @@
+// Valeurs récupérées du workflow GitHub Actions
 var target = Argument("target", "Build");
 
 var workflow = BuildSystem.GitHubActions.Environment.Workflow;
@@ -22,7 +23,8 @@ Task("Build")
         settings.MSBuildSettings.VersionSuffix = "ci." + buildId;
     }
 
-    DotNetBuild(".", settings);
+    // Ici tu mets le bon chemin
+    DotNetBuild("./LevelImposteur/LevelImposteur.csproj", settings);
 });
 
 RunTarget(target);
