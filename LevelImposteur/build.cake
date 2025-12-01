@@ -1,10 +1,3 @@
-// Valeurs récupérées du workflow GitHub Actions
-var target = Argument("target", "Build");
-
-var workflow = BuildSystem.GitHubActions.Environment.Workflow;
-var buildId = workflow.RunNumber;
-var tag = workflow.RefType == GitHubActionsRefType.Tag ? workflow.RefName.Substring(1) : null;
-
 Task("Build")
     .Does(() =>
 {
@@ -23,8 +16,5 @@ Task("Build")
         settings.MSBuildSettings.VersionSuffix = "ci." + buildId;
     }
 
-    // Ici tu mets le bon chemin
-    DotNetBuild("./LevelImposteur/LevelImposter.csproj", settings);
+    DotNetBuild("./LevelImposter.csproj", settings);
 });
-
-RunTarget(target);
