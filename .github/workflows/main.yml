@@ -1,6 +1,3 @@
- - name: Upload a Build Artifact
-  uses: actions/upload-artifact@v5.0.0
-  
 on: [ "push", "pull_request" ]
 
 jobs:
@@ -20,7 +17,8 @@ jobs:
       - name: Run the Cake script
         uses: cake-build/cake-action@v2.0.0
 
-      - uses: actions/upload-artifact@v4
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v4
         with:
           name: LevelImposter.dll
           path: LevelImposter/bin/Release/net6.0/LevelImposter.dll
