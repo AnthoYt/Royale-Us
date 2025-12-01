@@ -16,6 +16,8 @@ jobs:
 
       - name: Run the Cake script
         uses: cake-build/cake-action@v2.0.0
+        with:
+          script-path: LevelImposteur/build.cake
 
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4
