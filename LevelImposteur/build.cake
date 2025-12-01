@@ -24,7 +24,7 @@ Task("Build")
     }
 
     // Ici tu mets le bon chemin
-    DotNetBuild("./LevelImposteur/LevelImposteur.csproj", settings);
+    DotNetBuild("./LevelImposteur/LevelImposter.csproj", settings);
 });
 
 RunTarget(target);
