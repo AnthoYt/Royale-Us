@@ -72,10 +72,10 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 | Langue               | ❔  |              Status               |
 |-------------------------|:--:|:---------------------------------:|
 | Anglais                 | ✅  |         Entièrement traduit         |
+| Chinoix                 | ✅  |         Entièrement traduit         |
 | Français                | ✅  |         Entièrement traduit        |
 | Italien                 | 🟡  |        Entièrement traduit      |
 | Espagnol                | 🟡 |       Entièrement traduit         |
-| Bisaya                  | 🟡  |          Partiellement traduit          |
 | Portugais               | 🟡  |         Entièrement traduit        |
 
 
