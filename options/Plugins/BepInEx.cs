@@ -1,96 +1,111 @@
-https://github.com/VedalAI/neuro-amongus/releases
-
 using System;
 using System.Collections;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
-using System.Net.Http;
 using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using BepInEx;
 using BepInEx.Unity.IL2CPP;
-using BepInEx.Unity.IL2CPP.Utils;
 using HarmonyLib;
 using UnityEngine;
 using UnityEngine.Networking;
 
-namespace RoyaleUs.Modules;
-
-public class BepInExUpdater : MonoBehaviour
+namespace RoyaleUs.Modules
 {
-    // Mettez à jour la version requise et l'URL de téléchargement avec la dernière version de BepInEx.
-    public const string RequiredBepInExVersion = "6.0.0-be.725+e1974e26fd7702c66b54c0d6879c90b988cc4920";  // Assurez-vous de la mettre à jour
-    public const string BepInExDownloadURL = "https://builds.bepinex.dev/projects/bepinex_be/725/BepInEx-Unity.IL2CPP-win-x86-6.0.0-be.725%2Be1974e2.zip";
-    public static bool UpdateRequired => Paths.BepInExVersion.ToString() != RequiredBepInExVersion;
-
-    public void Awake()
+    public class BepInExUpdater : MonoBehaviour
     {
-        RoyaleUsPlugin.Logger.LogMessage("BepInEx Update Required...");
-        RoyaleUsPlugin.Logger.LogMessage($"{Paths.BepInExVersion}, {RequiredBepInExVersion} ");
-        this.StartCoroutine(CoUpdate());
-    }
+        // Met la version souhaitée ici
+        public const string RequiredBepInExVersion = "6.0.0-be.733+995f049";
+        public static readonly string BepInExDownloadURL_x86 =
+            "https://builds.bepinex.dev/projects/bepinex_be/733/BepInEx-Unity.IL2CPP-win-x86-6.0.0-be.733%2B995f049.zip";
+        public static readonly string BepInExDownloadURL_x64 =
+            "https://builds.bepinex.dev/projects/bepinex_be/733/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.733%2B995f049.zip";
 
-    [HideFromIl2Cpp]
-    public IEnumerator CoUpdate()
-    {
-        // Affiche un message pendant le téléchargement
-        Task.Run(() => MessageBox(GetForegroundWindow(), "Required BepInEx update is downloading, please wait...", "RoyaleUs", 0));
-
-        // Utilisation de UnityWebRequest pour télécharger le fichier ZIP
-        UnityWebRequest www = UnityWebRequest.Get(BepInExDownloadURL);
-        yield return www.SendWebRequest();  // Utilisez SendWebRequest pour envoyer la requête.
-
-        if (www.result == UnityWebRequest.Result.ConnectionError || www.result == UnityWebRequest.Result.ProtocolError)
+        public static bool UpdateRequired
         {
-            RoyaleUsPlugin.Logger.LogError(www.error);
-            yield break;
-        }
-
-        // Chemin de stockage du fichier ZIP téléchargé
-        var zipPath = Path.Combine(Paths.GameRootPath, ".bepinex_update");
-        File.WriteAllBytes(zipPath, www.downloadHandler.data);
-
-        // Préparez le chemin d'exécution de l'exécutable pour lancer la mise à jour
-        var tempPath = Path.Combine(Path.GetTempPath(), "RoyaleUsUpdater.exe");
-        var asm = Assembly.GetExecutingAssembly();
-        var exeName = asm.GetManifestResourceNames().FirstOrDefault(n => n.EndsWith("RoyaleUsUpdater.exe"));
-
-        using (var resource = asm.GetManifestResourceStream(exeName))
-        {
-            using (var file = new FileStream(tempPath, FileMode.OpenOrCreate, FileAccess.Write))
+            get
             {
-                resource!.CopyTo(file);
+                // Comparer la version actuelle à la version requise
+                var current = Paths.BepInExVersion.ToString();
+                return !string.Equals(current, RequiredBepInExVersion, StringComparison.OrdinalIgnoreCase);
             }
         }
 
-        // Lance l'exécutable de mise à jour avec les arguments nécessaires
-        var startInfo = new ProcessStartInfo(tempPath, $"--game-path \"{Paths.GameRootPath}\" --zip \"{zipPath}\"")
+        public void Awake()
         {
-            UseShellExecute = false
-        };
-        Process.Start(startInfo);
-        Application.Quit();
+            if (!UpdateRequired)
+            {
+                return;
+            }
+
+            RoyaleUsPlugin.Logger.LogMessage($"BepInEx Update Required: {Paths.BepInExVersion} → {RequiredBepInExVersion}");
+            this.StartCoroutine(CoUpdate());
+        }
+
+        [HideFromIl2Cpp]
+        public IEnumerator CoUpdate()
+        {
+            // Message pendant le téléchargement
+            Task.Run(() => MessageBox(GetForegroundWindow(),
+                "BepInEx update is downloading, please wait...", "RoyaleUs Updater", 0));
+
+            // Choisir la bonne URL selon l'architecture
+            bool is64 = Environment.Is64BitProcess; // ou une autre méthode pour détecter x64
+            string url = is64 ? BepInExDownloadURL_x64 : BepInExDownloadURL_x86;
+
+            UnityWebRequest www = UnityWebRequest.Get(url);
+            yield return www.SendWebRequest();
+
+            if (www.result == UnityWebRequest.Result.ConnectionError ||
+                www.result == UnityWebRequest.Result.ProtocolError)
+            {
+                RoyaleUsPlugin.Logger.LogError($"Failed to download BepInEx: {www.error}");
+                yield break;
+            }
+
+            var zipPath = Path.Combine(Paths.GameRootPath, ".bepinex_update.zip");
+            File.WriteAllBytes(zipPath, www.downloadHandler.data);
+
+            // Extraire l'archive
+            try
+            {
+                var extractPath = Path.Combine(Paths.GameRootPath, "BepInEx_new");
+                System.IO.Compression.ZipFile.ExtractToDirectory(zipPath, extractPath, true);
+
+                // Supprimer l'ancien BepInEx (optionnel : à gérer avec soin)
+                var oldDir = Path.Combine(Paths.GameRootPath, "BepInEx");
+                if (Directory.Exists(oldDir))
+                    Directory.Delete(oldDir, true);
+
+                // Renommer le nouveau dossier
+                Directory.Move(extractPath, oldDir);
+            }
+            catch (Exception ex)
+            {
+                RoyaleUsPlugin.Logger.LogError($"Extraction or replacement failed: {ex}");
+                yield break;
+            }
+
+            // Lancer l'exécutable de mise à jour si tu en as un, sinon redémarrer
+            Application.Quit();
+            yield break;
+        }
+
+        [DllImport("user32.dll")]
+        public static extern IntPtr GetForegroundWindow();
+
+        [DllImport("user32.dll")]
+        public static extern int MessageBox(IntPtr hWnd, String text, String caption, int options);
     }
 
-    // Déclarations des méthodes externes utilisées dans le code pour afficher des messages
-    [DllImport("user32.dll")]
-    public static extern IntPtr GetForegroundWindow();
-
-    [DllImport("user32.dll")]
-    public static extern int MessageBox(IntPtr hWnd, String text, String caption, int options);
-
-    [DllImport("user32.dll")]
-    public static extern int MessageBoxTimeout(IntPtr hwnd, String text, String title, uint type, Int16 wLanguageId, Int32 milliseconds);
-}
-
-// Harmony patch pour empêcher le chargement de l'écran principal tant que la mise à jour n'est pas terminée
-[HarmonyPatch(typeof(SplashManager), nameof(SplashManager.Update))]
-public static class StopLoadingMainMenu
-{
-    public static bool Prefix()
+    [HarmonyPatch(typeof(SplashManager), nameof(SplashManager.Update))]
+    public static class StopLoadingMainMenu
     {
-        return !BepInExUpdater.UpdateRequired;
+        public static bool Prefix()
+        {
+            return !BepInExUpdater.UpdateRequired;
+        }
     }
 }
