@@ -27,7 +27,8 @@ Si vous avez la moindre question Serveur <a href="https://discord.com/invite/ad7
 
 Normalement vous devriez avoir ça comme écran d'affichage sur la map :
 
-![image](https://github.com/user-attachments/assets/3d1e7786-1542-4209-83fc-7cb716913613)
+<img width="4975" height="2985" alt="map" src="https://github.com/user-attachments/assets/2509c6d3-1a27-4f04-924c-e006f0f16796" />
+
 
 
 
