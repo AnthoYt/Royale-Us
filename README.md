@@ -1,5 +1,8 @@
 # Voici les Mises à jour Pour 2026 :
-Va check <a href="https://github.com/AnthoYt/Royale-Us/discussions/11" target="_blank">Annonce</a> pour avoir toutes les infos !
+- Un Nouveau MOD "Couleurs" arrivera d'ici 2026 où les joueurs pourront avoir des couleurs en plus dans le lobby
+- Le mod est compatible via Epic Games et Steam pour l'instant mais l'arrivé du Support Microsoft arrivera avec l'aide des Dev "LevelImposteur" qui ont l'autorisation de Microsoft
+- Des mises à jours, nouveauxtés, patchs, arriveront pour améliorer la map et la rendre plus jolie.
+**⚠️ Aucune dates des mises à jour indiqués car je bosse sur ce projet quand je le souhaite.**
 
 <img width="812" height="362" alt="image" src="https://github.com/user-attachments/assets/469e3a7b-e20e-490b-bf04-c2ee0a90e1a9" />
 
