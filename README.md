@@ -1,8 +1,8 @@
-# Voici les Mises à jour Pour 2025 :
+# Voici les Mises à jour Pour 2026 :
 Va check <a href="https://github.com/AnthoYt/Royale-Us/discussions/11" target="_blank">Annonce</a> pour avoir toutes les infos !
 
+<img width="812" height="362" alt="image" src="https://github.com/user-attachments/assets/469e3a7b-e20e-490b-bf04-c2ee0a90e1a9" />
 
-![image](https://github.com/user-attachments/assets/bb757914-b96f-41dc-9760-994cc37085e1)
 
 # Problème & Support
 
