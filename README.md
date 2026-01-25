@@ -1,8 +1,12 @@
-# Voici les Mises à jour Pour 2025 :
-Va check <a href="https://github.com/AnthoYt/Royale-Us/discussions/11" target="_blank">Annonce</a> pour avoir toutes les infos !
+# Voici les Mises à jour Pour 2026 :
+- Un Nouveau MOD "Couleurs" arrivera d'ici 2026 où les joueurs pourront avoir des couleurs en plus dans le lobby
+- Le mod est compatible via Epic Games et Steam pour l'instant mais l'arrivé du Support Microsoft arrivera avec l'aide des Dev "LevelImposteur" qui ont l'autorisation de Microsoft
+- Des mises à jours, nouveauxtés, patchs, arriveront pour améliorer la map et la rendre plus jolie.
 
+**⚠️ Aucune dates des mises à jour indiqués car je bosse sur ce projet quand je le souhaite.**
 
-![image](https://github.com/user-attachments/assets/bb757914-b96f-41dc-9760-994cc37085e1)
+<img width="812" height="362" alt="image" src="https://github.com/user-attachments/assets/469e3a7b-e20e-490b-bf04-c2ee0a90e1a9" />
+
 
 # Problème & Support
 
@@ -10,7 +14,7 @@ Merci d'aller dans [Ticket](https://github.com/AnthoYt/Royale-Us/issues) pour fa
 
 ⚠️ | Tout Problème en rapport avec une date de prochaine mise à jour, c'est indiqué dans la catégorie [Version](https://github.com/AnthoYt/Royale-Us?tab=readme-ov-file#d%C3%A9ploiements) 
 
-⚠️ | Tout Problème en rapport avec l'installation, je dépanne pas sous forme de Linux. La Plat-forme Microsoft n'est pas encore accessible pour mon Mod.
+⚠️ | Tout Problème en rapport avec l'installation, je dépanne pas sous forme de Linux. La Plat-forme Microsoft n'est pas encore accessible pour mon Mod. **(D'ici 2026 pour Microsoft sa sera bon)**
 
 ⚠️ | Tout problème du langague du mod est tout à fait normal, merci d'aller vérifier ici [Language](https://github.com/AnthoYt/Royale-Us#langues).
 
@@ -59,7 +63,7 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 
 |                                       Among Us Version                                        |  Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
-|                                         `v2026.18.*.*`                                         |   `v2026.**.*`   | [À VENIR]() |
+|                                         `v2026.18.*.*`                                         |   `v2026.1.11`   | [À VENIR](https://github.com/Twitch-Antho/Royale/releases/tag/0.8) |
 |                                         `v2025.17.0.1`                                         |   `v2025.12.5`   | [Download](https://github.com/Twitch-Antho/Royale-Us/releases/tag/0.7) |
 |                                         `v2025.16.0.0`                                         |   `v2025.4.14`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.6) |
 |                                         `v2025.2.18`                                         |   `v2025.2.22`   | [Download](https://github.com/AnthoYt/Royale-Us/releases/tag/0.5) |
