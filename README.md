@@ -94,14 +94,4 @@ Si tu veux voir d'autres Tutos sur d'autres Mods <a href="https://www.youtube.co
 - <a href="https://github.com/superrobinou" target="_blank">Robin</a>
  | Technicien du Support
 
-<a href="https://www.youtube.com/@Royale_Antho" target="_blank">Youtube</a>
-
-
-
-
-                                                                               
-
-
-
-
-
+<a href="https://www.youtube.com/@Royale_Antho" target="_blank">Youtube</a>                                                                         
